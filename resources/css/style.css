@@ -2,11 +2,23 @@ h1,
 h2,
 p {
   text-align: center;
+  color: white;
+}
+
+h1,
+h2 {
+  font-family: Verdana;
 }
 
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white;
+}
+
+#footer {
+  text-align: right;
+}
+
+body {
+  background-color: black;
 }
