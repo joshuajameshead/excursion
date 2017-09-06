@@ -1,24 +1,27 @@
-h1,
-h2,
-p {
-  text-align: center;
-  color: white;
-}
-
-h1,
-h2 {
-  font-family: Verdana;
-}
-
 h1 {
   font-weight: normal;
   font-size: 50px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.elink {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
 #footer {
   text-align: right;
+  color: gray;
 }
 
 body {
   background-color: black;
+  color: white;
+  font-family: Verdana;
+  text-align: center;
 }
