@@ -25,3 +25,8 @@ body {
   font-family: Verdana;
   text-align: center;
 }
+
+.description {
+  font-size: 21px;
+  color: gray;
+}
